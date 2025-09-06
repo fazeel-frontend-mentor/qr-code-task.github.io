@@ -57,8 +57,8 @@ body {
 
 .scan-img {
   display: block;
-  width: 270px;
-  height: 270px;
+  width: 275px;
+  height: 275px;
   border-radius: 16px;
   border-radius: 10px;
   background: var(--color-blue-600, #2C7DFA);
