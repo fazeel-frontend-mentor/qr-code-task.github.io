@@ -20,10 +20,11 @@ body {
   padding: var(--spacing-200, 16px) var(--spacing-200, 16px) var(--spacing-200, 40px) var(--spacing-200, 16px);
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  max-width: 290px;
   border-radius: 20px;
   background: var(--color-white, #FFF);
   box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
-  max-width: 320px;
 }
 
 
@@ -36,7 +37,7 @@ body {
   font-style: normal;
   font-weight: var(--font-weight-bold, 700);
   line-height: 120%;
-  max-width: 250px;
+  max-width: 230px;
   /* 26.4px */
 }
 
