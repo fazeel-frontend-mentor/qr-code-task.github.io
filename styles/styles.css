@@ -2,7 +2,7 @@
 
 /* Mobile-first base styles */
 body {
-  background: var(--color-slate-300);
+  background: var(--color-slate-700);
   color: var(--color-slate-900);
   font-family: var(--font-family-base);
   font-size: var(--font-size-body);
