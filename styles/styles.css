@@ -36,8 +36,8 @@ body {
   font-style: normal;
   font-weight: var(--font-weight-bold, 700);
   line-height: 120%;
-  max-width: 230px;
-  /* 26.4px */
+  font-size: var(--font-size-text-preset-1, 22px);
+  max-width: 250px;
 }
 
 .scan-para {
