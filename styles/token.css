@@ -1,0 +1,27 @@
+:root {
+  /* Colors */
+  --color-white: hsl(0, 0%, 100%);
+  --color-slate-300: #D5E1EF; /* HSL: 216, 33%, 91% */
+  --color-slate-500: hsl(216, 15%, 48%);
+  --color-slate-900: hsl(218, 44%, 22%);
+
+  /* Typography */
+  --font-family-base: 'Outfit', sans-serif;
+  --font-size-body: 15px;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  --font-size-text-preset-1: 22px; /* For headings */
+  --font-size-text-preset-2: 15px; /* For body/paragraph */
+
+  /* Layout */
+  --width-mobile: 375px;
+  --width-desktop: 1440px;
+
+  /* Spacing */
+  --spacing-100: 8px;
+  --spacing-200: 16px;
+  --spacing-300: 24px;
+  --spacing-400: 32px;
+  --spacing-500: 40px;
+}
