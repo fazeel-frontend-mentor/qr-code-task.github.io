@@ -59,7 +59,7 @@ body {
   max-width: 250px;
   /* 21px */
   letter-spacing: 0.2px;
-  margin: var(--spacing-100, 8px) 0;
+  margin: var(--spacing-50, 8px) 0;
 }
 
 .scan-img {
