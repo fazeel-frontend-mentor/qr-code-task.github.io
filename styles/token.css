@@ -1,7 +1,7 @@
 :root {
   /* Colors */
   --color-white: hsl(0, 0%, 100%);
-  --color-slate-300: #D5E1EF; /* HSL: 216, 33%, 91% */
+  --color-slate-300: hsl(212, 45%, 89%); /* HSL: 216, 33%, 91% */
   --color-slate-500: hsl(216, 15%, 48%);
   --color-slate-900: hsl(218, 44%, 22%);
 
