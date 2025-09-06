@@ -43,6 +43,7 @@ body {
   line-height: 120%;
   font-size: var(--font-size-text-preset-1, 22px);
   max-width: 250px;
+  margin: var(--spacing-100, 8px) 0;
 }
 
 .scan-para {
@@ -58,6 +59,7 @@ body {
   max-width: 250px;
   /* 21px */
   letter-spacing: 0.2px;
+  margin: var(--spacing-100, 8px) 0;
 }
 
 .scan-img {
