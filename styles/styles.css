@@ -50,7 +50,7 @@ body {
   line-height: 120%;
   font-size: var(--font-size-text-preset-1, 22px);
   max-width: 250px;
-  margin: var(--spacing-200, 16px) 0;
+  margin: var(--spacing-300, 16px) 0;
 }
 
 .scan-para {
