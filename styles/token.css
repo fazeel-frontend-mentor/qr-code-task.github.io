@@ -19,6 +19,10 @@
   --width-desktop: 1440px;
 
   /* Spacing */
+  --spacing-0: 0px;
+  --spacing-25: 2px;
+  --spacing-50: 4px;
+  --spacing-75: 6px;
   --spacing-100: 8px;
   --spacing-200: 16px;
   --spacing-300: 24px;
