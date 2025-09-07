@@ -64,8 +64,8 @@ body {
 
 .scan-img {
   display: block;
-  width: 280px;
-  height: 280px;
+  width: 288px;
+  height: 288px;
   border-radius: 16px;
   border-radius: 10px;
   background: var(--color-blue-600, #2C7DFA);
